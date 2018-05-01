@@ -1,0 +1,26 @@
+{
+  "name": "ar_site",
+  "version": "1.0.0",
+  "description": "AR Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestervella/ar_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestervella/ar_site/issues"
+  },
+  "homepage": "https://github.com/silvestervella/ar_site#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.4.1"
+  }
+}
